@@ -1,10 +1,9 @@
 {
   "name": "starbet",
   "main": "./lib/starbet",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": " คุณจะค้นพบตัวเลือกมากมายที่นั่น การสมัครเว็บไซต์เดียวอาจทำให้เกมจบลง ทุกสไตล์ที่คุณต้องการ อย่าพลาดโอกาสดีๆ ในการสร้างรายได้ การลงทุนนั้นคุ้มค่าอย่างไม่ต้องสงสัย",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "starbet:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
